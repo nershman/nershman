@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="spaghetti_2.jpg" width=60px title="https://www.youtube.com/watch?v=fiVr34QCF_c">
+  <a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
+    <img src="spaghetti_2.jpg" width=60px title="SPAGHETTI">
+  </a>
 </p>
 
 <!--
