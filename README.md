@@ -1,4 +1,5 @@
-### Hi there 👋
+<center><img src="spaghetti.gif" width=150px></center>
+
 
 <!--
 **nershman/nershman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<center><img src="spaghetti.gif" style="filter: drop-shadow(30px 10px 40px #4444dd);"></center>
+![](spaghetti.gif)
+
 -->
