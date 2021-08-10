@@ -1,9 +1,18 @@
+<details>
+  <summary>
+    <p align="center">
+      <a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
+        <img src="spaghetti.png" height=50px>
+      </a>
+    </p>
+  </summary>
+  <p align="center"> <span title="I hope you like spaghetti.">🍝</span> </p>
+</details>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
-    <img src="spaghetti.png" height=50px title="SPAGHETTI">
-  </a>
-</p>
+
+  
+
+
 
 <!--
 **nershman/nershman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
