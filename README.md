@@ -1,5 +1,7 @@
-<center><img src="spaghetti.gif" width=150px></center>
 
+<p align="center">
+  <img src="spaghetti.gif" width=120px>
+</p>
 
 <!--
 **nershman/nershman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
