@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
-    <img src="spaghetti_2.jpg" width=60px title="SPAGHETTI">
+    <img src="spaghetti.png" height=50px title="SPAGHETTI">
   </a>
 </p>
 
