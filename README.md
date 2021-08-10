@@ -7,6 +7,15 @@
     </p>
   </summary>
   <p align="center"> <span title="I hope you like spaghetti.">🍝</span> </p>
+  
+  <!-- this is getting stupid -->
+  <details>
+    <summary>
+    </summary>
+    <p align="center">
+      <img src="spaghetti.gif" height=400px> </br>What did you expect?
+     </p>
+  </details>
 </details>
 
 
