@@ -1,7 +1,11 @@
 <details>
   <summary>
-    <p align="center"><kbd>
-      <a><img src="spaghetti.png" height=50px></a></kbd>
+    <p align="center">
+      <kbd>
+        &nbsp&nbsp
+       <a href="#spaghetti" ><img src="spaghetti.png" height=50px></a>
+       &nbsp&nbsp
+      </kbd>
       </p>
   </summary>
   <p align="center"> <span title="Experience Five-Star Italian Dining like never before."> 🍝 </span> </p>
