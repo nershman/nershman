@@ -1,21 +1,16 @@
 <details>
   <summary>
-    <p align="center">
-      <a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
-        <img src="spaghetti.png" height=50px>
-      </a>
-    </p>
+    <p align="center"><kbd>
+      <img src="spaghetti.png" height=50px></kbd>
+      </p>
   </summary>
-  <p align="center"> <span title="I hope you like spaghetti.">🍝</span> </p>
+  <p align="center"> <span title="Experience Five-Star Italian Dining like never before."> 🍝 </span> </p>
   
   <!-- this is getting stupid -->
-  <details>
-    <summary>
-    </summary>
-    <p align="center">
-      <img src="spaghetti.gif" height=400px> </br>What did you expect?
-     </p>
-  </details>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
+  <img src="spaghetti.gif" height=400px> </a>
+</p>
 </details>
 
 
