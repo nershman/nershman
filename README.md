@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="spaghetti.gif" width=120px>
+  <img src="spaghetti_2.jpg" width=60px title="https://www.youtube.com/watch?v=fiVr34QCF_c">
 </p>
 
 <!--
