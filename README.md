@@ -7,8 +7,8 @@
        &nbsp&nbsp
       </kbd>
       </p>
-  </summary>
-  <p align="center"> <span title="Experience Five-Star Italian Dining like never before."> 🍝 </span> </p>
+  </summary><h1>
+  <p align="center"> <span title="Experience Five-Star Italian Dining like never before."> 🍝 </span> </p></h1>
   
   <!-- this is getting stupid -->
 
