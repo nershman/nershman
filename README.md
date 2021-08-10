@@ -1,14 +1,14 @@
 <details>
   <summary>
     <p align="center"><kbd>
-      <a href="#"><img src="spaghetti.png" height=50px></a></kbd>
+      <img src="spaghetti.png" height=50px></kbd>
       </p>
   </summary>
   <p align="center"> <span title="Experience Five-Star Italian Dining like never before."> 🍝 </span> </p>
   
   <!-- this is getting stupid -->
 
-<p align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
+<p id="spaghetti" align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
   <img src="spaghetti.gif" height=400px> </a>
 </p>
 </details>
