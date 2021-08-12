@@ -14,6 +14,8 @@
 
 <p id="spaghetti" align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
   <img src="spaghetti.gif" height=400px> </a>
+  </br>
+  <img src='https://komarev.com/ghpvc/?username=nershman&color=grey' align='center' height=14>
 </p>
 </details>
 
