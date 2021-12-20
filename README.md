@@ -7,12 +7,7 @@
        &nbsp&nbsp
       </kbd>
       </p>
-  </summary><!--<h1>
-  <p align="center"> <span title="Experience Five-Star Italian Dining like never before."> 🍝 </span> </p></h1>
-  
-   this is getting stupid -->
-
-<p id="spaghetti" align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
+  </summary><p id="spaghetti" align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
   <img src="spaghetti.gif" height=400px> </a>
   </br>
   <img src='https://komarev.com/ghpvc/?username=nershman&color=grey' align='center' height=14>
