@@ -22,8 +22,6 @@
 <!--
 <h1>
   <p align="center"> <span> 🍝 </span> </p></h1>
-  
-   <!--this is getting stupid -->
 
 
 
