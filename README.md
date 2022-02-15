@@ -3,12 +3,11 @@
     <p align="center">
       <kbd>
         &nbsp&nbsp
-       <a href="#------" ><img src="spaghetti.png" height=50px></a>
+       <a href="#------" >⬤</a>
        &nbsp&nbsp
       </kbd>
       </p>
-  </summary><p id="spaghetti" align="center"><a href="https://www.youtube.com/watch?v=fiVr34QCF_c">
-  <img src="spaghetti.gif" height=400px> </a>
+  </summary><p id="spaghetti" align="center">
   </br>
   <img src='https://komarev.com/ghpvc/?username=nershman&color=grey' align='center' height=14>
 </p>
