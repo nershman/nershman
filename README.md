@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <center><img src="spaghetti.gif" style="filter: drop-shadow(30px 10px 40px #4444dd);"></center>
 ![](spaghetti.gif)
-
+.
 -->
