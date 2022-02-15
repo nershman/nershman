@@ -2,9 +2,9 @@
   <summary>
     <p align="center"><kbd>
       <sub>read more at</sub> </br>
-      <kbd><i><a href="nershman.github.io">nershman.github.io</a></i></kbd><br>
+      <kbd><i><a href="https://nershman.github.io/">nershman.github.io</a></i></kbd><br>
         &nbsp&nbsp&nbsp
-      <a href="nershman.github.io" ><kbd><kbd><kbd>&nbsp&nbsp&nbsp⬤⬤⬤&nbsp&nbsp&nbsp&nbsp</kbd></kbd></kbd></a>
+      <a href="https://nershman.github.io/" ><kbd><kbd><kbd>&nbsp&nbsp&nbsp⬤⬤⬤&nbsp&nbsp&nbsp&nbsp</kbd></kbd></kbd></a>
        &nbsp&nbsp&nbsp
       </kbd>
       </p>
