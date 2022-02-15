@@ -1,14 +1,24 @@
 <details>
   <summary>
-    <p align="center">
-      <kbd>
-        &nbsp&nbsp
-       <a href="#------" >⬤⬤⬤</a>
-       &nbsp&nbsp
+    <p align="center"><kbd>
+      <sub>read more at</sub> </br>
+      <kbd><i><a href="nershman.github.io">nershman.github.io</a></i></kbd><br>
+        &nbsp&nbsp&nbsp
+      <a href="nershman.github.io" ><kbd><kbd><kbd>&nbsp&nbsp&nbsp⬤⬤⬤&nbsp&nbsp&nbsp&nbsp</kbd></kbd></kbd></a>
+       &nbsp&nbsp&nbsp
       </kbd>
       </p>
   </summary><p id="spaghetti" align="center">
   </br>
+  
+  
+ ```mermaid
+pie
+    title My Github Profile Viewers
+    "Who actually see this" : 1
+    "Who don't" : 99
+```
+ <p align="center"> 
   <img src='https://komarev.com/ghpvc/?username=nershman&color=grey' align='center' height=14>
 </p>
 </details>
